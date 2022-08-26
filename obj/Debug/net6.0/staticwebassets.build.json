@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "JI9Eqp/lfuHwelkBuonJEoEaPfau3Uc8R1DxJ2PsyM8=",
+  "Source": "EmailSendgrid",
+  "BasePath": "_content/EmailSendgrid",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
