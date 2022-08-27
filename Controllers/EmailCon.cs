@@ -24,6 +24,7 @@ namespace EmailSendgrid.Controllers
         [Route("send-text-mail")]
         public async Task<IActionResult> SendPlainTextEmail(string toEmail)
         {
+            ///added comment
             string fromEmail = _configuration.GetSection("SendGridEmailSettings")
             .GetValue<string>("FromEmail");
 
